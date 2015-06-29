@@ -1,4 +1,4 @@
-Marker Clusterer – A Google Maps Golang API utility library
+Marker Clusterer – Golang version
 ==============
 
 A Google Maps Golang API v3 library to create and manage per-zoom-level clusters for large amounts of markers.
