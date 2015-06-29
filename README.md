@@ -1,4 +1,4 @@
-Marker Clusterer – A Google Maps JavaScript API utility library
+Marker Clusterer – A Google Maps Golang API utility library
 ==============
 
 A Google Maps Golang API v3 library to create and manage per-zoom-level clusters for large amounts of markers.
@@ -6,7 +6,12 @@ A Google Maps Golang API v3 library to create and manage per-zoom-level clusters
 
 [Reference documentation](https://googlemaps.github.io/js-marker-clusterer/docs/reference.html)
 
-Porting from the [Google Maps JavaScript API utility libraries on Google Code](https://code.google.com/p/google-maps-utility-library-v3/).
+I port from the [Google Maps JavaScript API utility libraries on Google Code](https://code.google.com/p/google-maps-utility-library-v3/) into golang version
+
+## How to use
+1. You must have mongodb server in local("127.0.0.1:27017")
+2. go run mc.go
+3. go to http://127.0.0.1:10043
 
 ## Live Demos
 

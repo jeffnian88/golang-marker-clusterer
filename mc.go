@@ -227,11 +227,12 @@ for i:= 0 ; i < 100 ; i=i+1 {
 */
 /*
 	http.HandleFunc("/hello", HelloServer)
+*/
 	err := http.ListenAndServe(":10443", nil)
 	if err != nil {
 		log.Fatal("ListenAndServe: ", err)
 	}
-*/
+
 	fmt.Println("hi, I started")
   	m.Run()
 }
