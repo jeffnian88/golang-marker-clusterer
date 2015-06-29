@@ -19,10 +19,6 @@ I port from the [Google Maps JavaScript API utility libraries on Google Code](ht
 
 [Examples page](https://googlemaps.github.io/js-marker-clusterer/docs/examples.html)
 
-## Contributing
-
-Want to contribute? Check out the [contributing guide](CONTRIBUTING.md)!
-
 ## License
 
 Copyright 2014 Google Inc. All rights reserved.
