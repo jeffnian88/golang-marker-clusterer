@@ -10,7 +10,7 @@ I port from the [Google Maps JavaScript API utility libraries on Google Code](ht
 
 ## How to use
 1. You must have mongodb server in local("127.0.0.1:27017")
-2. go run mc.go
+2. go run mc.go or (chmod 777 ./mc ;./mc)
 3. go to http://127.0.0.1:10043
 
 ## Live Demos
