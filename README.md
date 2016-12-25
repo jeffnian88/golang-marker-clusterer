@@ -9,8 +9,8 @@ A Google Maps Golang API v3 library to create and manage per-zoom-level clusters
 I port from the [Google Maps JavaScript API utility libraries on Google Code](https://code.google.com/p/google-maps-utility-library-v3/) into golang version
 
 ## How to use
-1. You must have mongodb server in local("127.0.0.1:27017")
-2. go run mc.go or (chmod 777 ./mc ;./mc)
+1. You must firstly install mongodb server in your local host with ("127.0.0.1:27017")
+2. go run mc.go (or chmod 777 ./mc ;./mc)
 3. go to http://127.0.0.1:10043
 
 ## Live Demos
